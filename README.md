@@ -3,7 +3,7 @@
 
 A collection of "get started" guides covering a range of topics.
 
-These are being developed for and in the context of the Portland chapter of PyLadies, an international organization focused on bringing more women into the Python software development community. While I certainly hope other PyLadies will find these useful, they aren't "pyladies specific".
+The guides were initially developed by the Portland chapter of PyLadies, an international organization focused on bringing more women into the Python software development community, and have been extended by the Edinburgh chapter. 
 
 Guides range in topic from using IRC to Learning Git & Github, and are written for newer programmers who want to develop core skills--though there are some fun guides as well, including a "how to" on zazzing up your command prompt.
 
